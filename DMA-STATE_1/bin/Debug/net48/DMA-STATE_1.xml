@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DMA-STATE_1</name>
+    </assembly>
+    <members>
+        <member name="T:DMA_STATE_1.Script">
+            <summary>
+            Represents a DataMiner Automation script.
+            </summary>
+        </member>
+        <member name="M:DMA_STATE_1.Script.Run(Skyline.DataMiner.Automation.IEngine)">
+            <summary>
+            The script entry point.
+            </summary>
+            <param name="engine">Link with SLAutomation process.</param>
+        </member>
+    </members>
+</doc>
