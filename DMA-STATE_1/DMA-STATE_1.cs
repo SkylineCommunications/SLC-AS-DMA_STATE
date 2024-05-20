@@ -89,13 +89,14 @@ namespace DMA_STATE_1
 			{
 				TestResult testResult = new TestResult()
 				{
+					ParameterName = "DMA State",
 					DmaName = agent.Name,
 					ReceivedValue = agent.State.ToString(),
 				};
 				results.Add(testResult);
 			}
 
-			engine.Log(JsonConvert.SerializeObject(results));
+			engine.AddScriptOutput("result", JsonConvert.SerializeObject(results));
 		}
 	}
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DMA_STATE_1
 {
-    public class TestResult
+	public class TestResult
 	{
 		public string ParameterName { get; set; }
 
@@ -17,5 +17,9 @@ namespace DMA_STATE_1
 		public string DmaName { get; set; }
 
 		public string ReceivedValue { get; set; }
+
+		public string ExpectedValue { get; set; }
+
+		public bool Success { get; set; }
 	}
 }
