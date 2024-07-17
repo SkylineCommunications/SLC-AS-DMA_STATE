@@ -89,7 +89,7 @@ namespace DMA_STATE_1
 			{
 				TestResult testResult = new TestResult()
 				{
-					ParameterName = "DMA-State",
+					ParameterName = "DMA-STATE",
 					DmaName = agent.Name,
 					ReceivedValue = agent.State.ToString(),
 				};

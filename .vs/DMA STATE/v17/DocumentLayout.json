@@ -100,7 +100,7 @@
               "RelativeDocumentMoniker": "DMA-STATE_1\\DMA-STATE_1.cs",
               "ToolTip": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMA_STATE\\DMA-STATE_1\\DMA-STATE_1.cs",
               "RelativeToolTip": "DMA-STATE_1\\DMA-STATE_1.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAwFsAAAAaAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAwEwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T17:30:09.878Z",
               "EditorCaption": ""
@@ -115,8 +115,7 @@
               "RelativeToolTip": "DMA-STATE.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-05-15T17:30:07.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T17:30:07.555Z"
             },
             {
               "$type": "Document",
@@ -128,8 +127,7 @@
               "RelativeToolTip": "DMA-STATE_1\\DMA-STATE_1.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-15T17:30:03.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T17:30:03.323Z"
             }
           ]
         }
