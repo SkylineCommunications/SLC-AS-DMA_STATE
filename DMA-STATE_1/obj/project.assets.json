@@ -28,10 +28,10 @@
           }
         }
       },
-      "Skyline.DataMiner.Core.DataMinerSystem.Automation/1.1.1.10": {
+      "Skyline.DataMiner.Core.DataMinerSystem.Automation/1.1.1.12": {
         "type": "package",
         "dependencies": {
-          "Skyline.DataMiner.Core.DataMinerSystem.Common": "1.1.1.10",
+          "Skyline.DataMiner.Core.DataMinerSystem.Common": "1.1.1.12",
           "Skyline.DataMiner.Dev.Automation": "10.1.11"
         },
         "compile": {
@@ -45,7 +45,7 @@
           }
         }
       },
-      "Skyline.DataMiner.Core.DataMinerSystem.Common/1.1.1.10": {
+      "Skyline.DataMiner.Core.DataMinerSystem.Common/1.1.1.12": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "13.0.2",
@@ -232,10 +232,10 @@
         "sharpziplib.nuspec"
       ]
     },
-    "Skyline.DataMiner.Core.DataMinerSystem.Automation/1.1.1.10": {
-      "sha512": "bCXS6Kgrv0v1AKOIjUm3T7Niv7hEQuinFEgvsxy2jq4epbNv4nolHHkb4oSBxxJPaAfuYQL6wx6gUdGWoWXXsA==",
+    "Skyline.DataMiner.Core.DataMinerSystem.Automation/1.1.1.12": {
+      "sha512": "VYSfTy+nvaJNWVbDrR+qIR+2LHY2O2kVq4yCagnnO4/h3ryRlnq9yr0Vp8fnOhzTeidCFFlK+ByAsER0zWL5UQ==",
       "type": "package",
-      "path": "skyline.dataminer.core.dataminersystem.automation/1.1.1.10",
+      "path": "skyline.dataminer.core.dataminersystem.automation/1.1.1.12",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -244,14 +244,14 @@
         "README.md",
         "lib/net462/Skyline.DataMiner.Core.DataMinerSystem.Automation.dll",
         "lib/net462/Skyline.DataMiner.Core.DataMinerSystem.Automation.xml",
-        "skyline.dataminer.core.dataminersystem.automation.1.1.1.10.nupkg.sha512",
+        "skyline.dataminer.core.dataminersystem.automation.1.1.1.12.nupkg.sha512",
         "skyline.dataminer.core.dataminersystem.automation.nuspec"
       ]
     },
-    "Skyline.DataMiner.Core.DataMinerSystem.Common/1.1.1.10": {
-      "sha512": "ZAvkmRpYT0jq8NvHsJ7IGxnLzSZhhR1y64/qDCgzs+ptayUbbpAgheNtGRzSpTIabvjKK8Mj0//fovUTAWam1Q==",
+    "Skyline.DataMiner.Core.DataMinerSystem.Common/1.1.1.12": {
+      "sha512": "Zsjdnvno2IhIzkQBiDyZCUmH66STzdZpd/kw+E908TVn7xsX6dPYLhAtNJOEee67mAH/QTBEB5WWXu33IpERcQ==",
       "type": "package",
-      "path": "skyline.dataminer.core.dataminersystem.common/1.1.1.10",
+      "path": "skyline.dataminer.core.dataminersystem.common/1.1.1.12",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -260,7 +260,7 @@
         "README.md",
         "lib/net462/Skyline.DataMiner.Core.DataMinerSystem.Common.dll",
         "lib/net462/Skyline.DataMiner.Core.DataMinerSystem.Common.xml",
-        "skyline.dataminer.core.dataminersystem.common.1.1.1.10.nupkg.sha512",
+        "skyline.dataminer.core.dataminersystem.common.1.1.1.12.nupkg.sha512",
         "skyline.dataminer.core.dataminersystem.common.nuspec"
       ]
     },
@@ -460,34 +460,35 @@
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.8": [
-      "Skyline.DataMiner.Core.DataMinerSystem.Automation >= 1.1.1.10",
-      "Skyline.DataMiner.Core.DataMinerSystem.Common >= 1.1.1.10",
+      "Skyline.DataMiner.Core.DataMinerSystem.Automation >= 1.1.1.12",
+      "Skyline.DataMiner.Core.DataMinerSystem.Common >= 1.1.1.12",
       "Skyline.DataMiner.Dev.Automation >= 10.2.0.25",
       "StyleCop.Analyzers >= 1.1.118"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SergioSU\\.nuget\\packages\\": {}
+    "C:\\Users\\sofiana\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMA_STATE\\DMA-STATE_1\\DMA-STATE_1.csproj",
+      "projectUniqueName": "C:\\GitHub\\Skyline\\SLC-AS-DMA_STATE\\DMA-STATE_1\\DMA-STATE_1.csproj",
       "projectName": "DMA-STATE_1",
-      "projectPath": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMA_STATE\\DMA-STATE_1\\DMA-STATE_1.csproj",
-      "packagesPath": "C:\\Users\\SergioSU\\.nuget\\packages\\",
-      "outputPath": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMA_STATE\\DMA-STATE_1\\obj\\",
+      "projectPath": "C:\\GitHub\\Skyline\\SLC-AS-DMA_STATE\\DMA-STATE_1\\DMA-STATE_1.csproj",
+      "packagesPath": "C:\\Users\\sofiana\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHub\\Skyline\\SLC-AS-DMA_STATE\\DMA-STATE_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SergioSU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sofiana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net48"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://devcore3.skyline.local/nuget/": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://devcore3:81/nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net48": {
@@ -512,11 +513,11 @@
         "dependencies": {
           "Skyline.DataMiner.Core.DataMinerSystem.Automation": {
             "target": "Package",
-            "version": "[1.1.1.10, )"
+            "version": "[1.1.1.12, )"
           },
           "Skyline.DataMiner.Core.DataMinerSystem.Common": {
             "target": "Package",
-            "version": "[1.1.1.10, )"
+            "version": "[1.1.1.12, )"
           },
           "Skyline.DataMiner.Dev.Automation": {
             "target": "Package",
@@ -532,5 +533,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://devcore3:81/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }
