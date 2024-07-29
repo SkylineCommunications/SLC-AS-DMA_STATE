@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("© Skyline Communications")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c54934ec4efc7adba3a20ad50e8e61cc12e9ea4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e5c33a4951f0ccea07fe0be9d463243324a49fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("DMA-STATE_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DMA-STATE_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
